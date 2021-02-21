@@ -3,5 +3,5 @@
 </a>
 
 <a href="https://github.com/dmiyamoto">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmiyamoto&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmiyamoto" />
 </a>
